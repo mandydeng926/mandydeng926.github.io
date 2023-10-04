@@ -1,0 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
+.projects-container {
+    top:-20px;
+}
