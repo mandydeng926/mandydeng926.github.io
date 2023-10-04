@@ -28,7 +28,7 @@ function createComponentsList(targetElementID, data){
         el.authors = item.authors;
         el.status = item.status || '';
         el.abstract = item.abstract;
-        el.href = item.href || '';
+        item.href && (el.href = item.href || '');
         return el;
     });
     target.append.apply(target, list);
