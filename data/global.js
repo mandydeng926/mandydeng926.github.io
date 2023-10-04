@@ -2,7 +2,7 @@ window.global_data = {
   working_projects: [
     {
       title: "Hiding under the table: Transparency of executive hedging and firm performance",
-      circulate: "Presented at:2023 Singapore Rising Scholars Conference at SMU (Best Paper Award), The University of Hong Kong, Central University of Finance and Economics (on schedule)",
+      circulate: "Presented at: 2023 Singapore Rising Scholars Conference at SMU (Best Paper Award), The University of Hong Kong, Central University of Finance and Economics (on schedule)",
       abstract:
         "This study explores the impact of the Securities and Exchange Commission’s (SEC) mandatory disclosure rule for executive hedging on firms’ economic performance. Using the novel textual data about executive hedging policies and practices from proxy statements, I find the positive impact of the mandate on firms’ performance and shareholder value. The transparency of executive hedging would increase the cost of hedging and restore the interest alignment, leading to better economic outcomes. The cross-sectional analysis shows that the positive impact of the mandate on firm performance is more salient for firms with higher incentives of strategic hedging, lower investment efficiency, and a less transparent information environment ex-ante. The research sheds light on the limited study of executive hedging and demonstrates the bright side of the SEC’s mandate.",
       authors: "Mengdie Deng (HKU)",
@@ -10,11 +10,11 @@ window.global_data = {
     },
     {
       title: "Managerial forward-looking orientation and corporate environmental risk: Evidence from a machine learning approach",
-      circulate: "Presented at:2023 GRASFI Annual Conference at Yale (Award for the Most Impactful Research), The University of Hong Kong",
+      circulate: "Presented at: 2023 GRASFI Annual Conference at Yale (Award for the Most Impactful Research), The University of Hong Kong",
       abstract:
         "The paper investigates whether managers with forward-looking tendencies are more likely to reduce corporate environmental risk. To answer this question, we adopt a machine learning approach to analyze Q&A sessions of Earnings Conference Calls and create a forward-looking orientation index at the firm-year level. We find that managers’ forward-looking tendencies are associated with subsequent lower corporate environmental risks. The relationship is stronger when managers are confronted with lower present bias and their firms receive more attention from socially responsible investors and other stakeholders. We also show that firms with forward-looking managers reduce more Greenhouse Gas emissions when mitigating environmental risks. Our results are robust to using alternative specifications for index construction, adopting the instrumental variable approach, and controlling for future performance and traditional proxies for managerial myopia.",
       authors: "Mengdie Deng (HKU), Tse-Chun Lin (HKU) and Jiayu Zhou (HKU)",
-      status: "",
+      status: "Ready for Submission",
     },
     {
       title: "Climate policy and firm valuation: Evidence from California Cap-and-Trade Program ",
@@ -58,14 +58,14 @@ window.global_data = {
   teaching: [
     {
       title: "Introduction to Financial Accounting",
-      authors:"undergraduate",
-      abstract: "Valuation score 95.3/100",
-      circulate: "Teaching Assistant (with turorials)",
+      authors:"Undergraduate Course",
+      abstract: "Teaching Assistant (with tutorials)  |  Valuation score 95.3/100",
+      circulate: "",
     },
     {
       title: "Statistical Analysis",
-      authors:"Graduate",
-      abstract: "Teaching Assistant (with turorials)",
+      authors:"Graduate Course",
+      abstract: "Teaching Assistant (with tutorials)",
       circulate: "",
     },
   ],
