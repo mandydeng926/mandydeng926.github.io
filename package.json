@@ -1,0 +1,26 @@
+{
+  "name": "mandydeng926.github.io",
+  "version": "1.0.0",
+  "description": "personal profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandydeng926/mandydeng926.github.io.git"
+  },
+  "keywords": [
+    "mengdie",
+    "phd",
+    "profile",
+    "candidate",
+    "JMP"
+  ],
+  "author": "nemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandydeng926/mandydeng926.github.io/issues"
+  },
+  "homepage": "https://github.com/mandydeng926/mandydeng926.github.io#readme"
+}
